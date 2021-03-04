@@ -14,6 +14,9 @@ body {
 .header img {
     border-radius: 50%;
 }
+.accordion-button, .accordion-body {
+    background-color: #fff;
+}
 .accordionMyBg {
     background-color: #f0f7f4;
 }
